@@ -1,2 +1,2 @@
 # Afame-Technologies
-Movie rating prediction with python
+Iris Flower Classification Prediction model
